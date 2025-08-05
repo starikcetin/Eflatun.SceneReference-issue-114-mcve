@@ -1,0 +1,9 @@
+{
+  "name": "com.testing.local.b",
+  "version": "1.0.0",
+  "displayName": "Local B",
+  "description": "From DependentPackageSandbox",
+  "dependencies": {
+    "com.testing.local.a": "1.0.0"
+  }
+}

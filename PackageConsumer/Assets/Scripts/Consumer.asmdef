@@ -1,0 +1,17 @@
+{
+    "name": "Consumer",
+    "rootNamespace": "Consumer",
+    "references": [
+        "GUID:469c8e517a970d344ab11e8fae1e50b5",
+        "GUID:af95c1ff8d8eaca45877e7cee81fc913"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

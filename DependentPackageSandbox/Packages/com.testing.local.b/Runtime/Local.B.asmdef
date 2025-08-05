@@ -1,0 +1,16 @@
+{
+    "name": "Local.B",
+    "rootNamespace": "Local.B",
+    "references": [
+        "GUID:469c8e517a970d344ab11e8fae1e50b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
