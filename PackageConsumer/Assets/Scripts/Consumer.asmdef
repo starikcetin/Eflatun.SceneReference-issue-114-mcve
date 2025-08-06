@@ -3,7 +3,8 @@
     "rootNamespace": "Consumer",
     "references": [
         "GUID:469c8e517a970d344ab11e8fae1e50b5",
-        "GUID:af95c1ff8d8eaca45877e7cee81fc913"
+        "GUID:af95c1ff8d8eaca45877e7cee81fc913",
+        "GUID:caca889fed6088d40b22c2d7e2909c31"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
